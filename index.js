@@ -11,7 +11,7 @@ app.listen(4000, () =>{
 })
 
 app.get('/character', (req, res) =>{
-    axios.get("https://anapioficeandfire.com/api/characters/3000")
+    axios.get("https://anapioficeandfire.com/api/characters/583")
         .then(response =>{
             res.json(response.data)
         })
