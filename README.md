@@ -16,7 +16,7 @@ about the underlying concepts in great detail. (But you can definitely research
 them if you're interested!)
 
 **IMPORTANT**: Don't run any `git adds` or `git commits` until instructed to in
-this walkthrough. If the connecting to a GitHub repository walkthrough tells you
+this walkthrough. If the "Connecting to a GitHub Repository" walkthrough tells you
 to run an add or a commit, go ahead and do so.
 
 ## Setup
