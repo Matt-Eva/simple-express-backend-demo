@@ -2,7 +2,7 @@
 
 So, you want to create a basic backend for your frontend project. Great!
 
-Before you do, make sure your frontend app is working the way you want it too
+Before you do, make sure your frontend app is working the way you want it to
 and meets all the project requirements - _don't get sidetracked_! This is an
 extra-bonus thing for you to try out.
 
@@ -52,7 +52,7 @@ installed! (Consult the `package.json` file in this repo for reference).
 
 ## .gitignore and .env
 
-If we're using a secrete API key within this project, we'll want to find a way
+If we're using a secret API key within this project, we'll want to find a way
 to access it in our code without pushing that key up to GitHub.
 
 We can do this using a combination of two files - a `.gitignore` file and a
@@ -145,7 +145,7 @@ const axios = require("axios")
 const cors = require("cors")
 ```
 
-Next, let's create a new varible called `app`. This variable will represent our
+Next, let's create a new variable called `app`. This variable will represent our
 server!
 
 ```JavaScript
